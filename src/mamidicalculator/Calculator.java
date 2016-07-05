@@ -19,5 +19,9 @@ public int add(){
         
 public int sub(){
     return a-b;
-}    
+} 
+
+public int mul(){
+    return a*b;
+}
 }
