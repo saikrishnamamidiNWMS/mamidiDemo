@@ -28,5 +28,9 @@ public int mul(){
 public int div(){
     return a/b;
 }
+
+public int mod(){
+    return a%b;
+}
 //One more comment by MSK
 }
