@@ -25,4 +25,7 @@ public int mul(){
     return a*b;
 }
 //Viewd by MSK @ the same time Koneru typed some code
+public int div(){
+    return a/b;
+}
 }
