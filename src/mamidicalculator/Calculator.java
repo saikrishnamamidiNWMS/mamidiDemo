@@ -24,4 +24,7 @@ public int sub(){
 public int mul(){
     return a*b;
 }
+public int div(){
+    return a/b;
+}
 }
